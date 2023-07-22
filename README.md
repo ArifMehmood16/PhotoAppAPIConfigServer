@@ -1,0 +1,2 @@
+# PhotoAppAPIConfigServer
+ Configuration server
